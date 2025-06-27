@@ -1,4 +1,3 @@
-# Predicting-Liver-Cirrhosis-Using-Advanced-Machine-Learning-Techniques
 # 🩺 Revolutionizing Liver Care: Predicting Liver Cirrhosis Using Advanced Machine Learning Techniques
 
 This is a machine learning-powered web application that predicts the risk of liver cirrhosis based on lifestyle and clinical features. 
